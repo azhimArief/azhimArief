@@ -37,7 +37,6 @@
   <summary>:zap: Most Used Language</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azhimArief&layout=compact)](https://github.com/azhimArief/azhimArief" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhimArief&layout=compact)](https://github.com/azhimArief/azhimArief)
 
 
 
