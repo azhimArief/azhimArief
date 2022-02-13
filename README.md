@@ -37,7 +37,7 @@
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhimArief&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/azhimArief/azhimArief)
    
-   [![Azhim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azhimArief)](https://github.com/azhimArief/azhimArief)
+   [![Azhim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azhimArief&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/azhimArief/azhimArief)
 
    
   
