@@ -3,10 +3,10 @@
 # Hi there, I'm Azhim Arief but you can call me Ajim 👋 
 
 
-## I'm a Student, Son and Future Software Developer!!
+## I'm a Student and Future Software Developer!!
 
 - 🌱 I’m currently trying to learn React
-- 🥅 2022 Goals: Learn more about to become a software developer
+- 🥅 2022 Goals: Learning on how to become a software developer
 - ⚡ Fun fact: I love to workout and code!
 
 
