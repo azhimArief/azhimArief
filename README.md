@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently trying to learn React
 - 🥅 2022 Goals: Learning on how to become a software developer
-- ⚡ Fun fact: I love to workout and code!
+- ⚡ Fun fact: I love to workout, code and learn new things!
 
 
 ### Languages and Tools Learned:
