@@ -32,7 +32,8 @@
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhimArief&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/azhimArief/azhimArief)
    
-   [![Azhim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azhimArief&v=2&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+ <!-- [![Azhim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azhimArief&v=2&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <img src="https://wakatime.com/share/@azhimArief/213c8e38-1b79-4ee6-8523-d6d9ab75b447.svg" height="500"/>
 
