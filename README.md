@@ -5,7 +5,7 @@
 
 ## I'm a Student and Software Developer!!
 
-- 🌱 I’m currently trying to learn React
+- 🌱 I’m currently trying to learn React and Laravel
 - 🥅 2022 Goals: Learning on how to become a software developer/ web developer
 - ⚡ Fun fact: I love to workout, code and learn new things!
 
